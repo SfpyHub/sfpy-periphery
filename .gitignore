@@ -1,0 +1,11 @@
+build/
+bin/
+node_modules/
+.DS_Store
+yarn-error.log
+
+contracts/artifacts/
+contracts/interfaces/artifacts/
+contracts/libraries/artifacts/
+
+docs/
